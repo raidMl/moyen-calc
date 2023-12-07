@@ -1,4 +1,6 @@
 # moyen-calc
+
+WEB URL: https://raidml.github.io/moyen-calc/
 calculate  the the average of student 
 ![mmm](https://user-images.githubusercontent.com/86850698/169356002-9c103573-57dd-4ff1-a65a-208a9e5f7802.PNG)
 ![mmmm](https://user-images.githubusercontent.com/86850698/169356011-a514c035-4330-4e13-a087-0684c111cd71.PNG)
